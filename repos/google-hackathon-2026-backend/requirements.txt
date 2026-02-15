@@ -1,0 +1,14 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+google-cloud-aiplatform>=1.38.0
+google-adk
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+python-jose[cryptography]
+python-multipart
+bcrypt
+google-cloud-storage
+sqlalchemy
+google-genai
+google-cloud-bigquery
+google-cloud-discoveryengine
