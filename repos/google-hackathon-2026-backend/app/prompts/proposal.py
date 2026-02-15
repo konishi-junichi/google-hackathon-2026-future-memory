@@ -15,6 +15,7 @@ def get_proposal_agent_instruction(mode: str, language: str, selected_tags: list
     出力言語: {language}
 
     【制約事項】
+    - 混雑状況を考慮して、旅行先・交通手段を検討してください
     - 出力は必ず有効なJSONオブジェクトのリスト（配列）でなければなりません。
     - レスポンスにマークダウン形式（```json など）を含めないでください。生のJSON配列のみを出力してください。
     - 各オブジェクトは以下のスキーマに一致させる必要があります:
