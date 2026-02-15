@@ -2,7 +2,7 @@
 
 ---
 
-# データベース定義書：Future Memory (Vertex AI Search 検索対象定義版)
+# データベース定義書：Future Memories (Vertex AI Search 検索対象定義版)
 
 ## 1. 概要
 *   **プラットフォーム**: Google BigQuery
