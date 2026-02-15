@@ -1,4 +1,4 @@
-# Future Memories - 旅の思い出循環プラットフォーム
+# Future Memories
 
 **第4回 Agentic AI Hackathon with Google Cloud 提出プロジェクト**
 
